@@ -1,2 +1,2 @@
-# todo-app
-/* simple task management application that runs in a terminal. */
+# ToDo App
+A simple command-line based ToDo application.
